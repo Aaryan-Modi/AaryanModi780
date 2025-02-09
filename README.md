@@ -5,7 +5,7 @@ A classic **Snake Game** implemented in C++ — works on **Windows & Linux & Mac
 ## Table of Contents
 - [Features](#Features)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contributors](#Contributors)
 - [License](#license)
 
 ## ✨ Features
