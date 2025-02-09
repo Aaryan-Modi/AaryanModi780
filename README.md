@@ -5,7 +5,7 @@ A classic **Snake Game** implemented in C++ — works on **Windows & Linux & Mac
 ## Table of Contents
 - [Features](#Features)
 - [Usage](#usage)
-- [Contributors](#👥)
+- [Contributors](https://github.com/Aaryan-Modi/AaryanModi780/tree/main?tab=readme-ov-file#-contributors)
 - [License](#license)
 
 ## ✨ Features
